@@ -1,2 +1,2 @@
-# java-demo
-Coding demos of java
+# code-demos
+Coding demos of multi languages
